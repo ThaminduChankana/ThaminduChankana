@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Undergraduate+Software+Engineer.)](https://git.io/typing-svg)
 
-🌱 I’m currently learning at Sri Lanka Institute Of Information Technology
+🌱 I’m currently Studying at Sri Lanka Institute Of Information Technology.
+
 
 💬 Talk with me about
 

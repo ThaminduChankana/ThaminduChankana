@@ -2,9 +2,7 @@
 
 🌱 I’m currently Studying at Sri Lanka Institute Of Information Technology.<br></br>
 
-💬 Talk with me about
-
-**Android, Javascript, Java, Python, ReactJS, HTML, CSS, JS, C, C++**
+💬 Talk with me about **Android, Javascript, Java, Python, ReactJS, HTML, CSS, JS, C, C++**
 
 <p><b>Connect with me 👇🏻</b>
 <br><br/>

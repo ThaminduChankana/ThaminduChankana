@@ -11,9 +11,10 @@
  
 <a target="_blank" href="https://twitter.com/Thamindu0707"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-[***Visit My Website***](https://thaminduchankana.netlify.app/)
+<h3><a href="https://thaminduchankana.netlify.app/"><b><i>Visit My Website</i></b></a></h3>
 
-<br>
+
+<br/>
 
 ## 📊 Github Status
 

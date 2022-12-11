@@ -28,6 +28,8 @@
 
 [*Family Dental Clinic Web Application* ](https://github.com/ThaminduChankana/Family-Dental-Clinic)
 
+[*Trash Coin Mobile Waste Management Application*](https://github.com/ThaminduChankana/TrashCoinApp)
+
 [*True Power Mobile Fitness Application* ](https://github.com/ThaminduChankana/True-Power)
 
 [*Fitness Factory Gym Management System*](https://github.com/ThaminduChankana/Fitness-Factory)

@@ -20,9 +20,9 @@
 
 ![Thamindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduChankana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaminduChankana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThaminduChankana&theme=algolia)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaminduChankana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 <!-- ![Thamindu's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThaminduChankana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 

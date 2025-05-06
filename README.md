@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Undergraduate+Software+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Software+Engineer.)](https://git.io/typing-svg)
 
-🌱 I’m currently Studying at Sri Lanka Institute Of Information Technology.<br></br>
-🍀 Microsoft Learn Student Ambassador (Beta).<br></br>
+🌱 I’m a Software Engineering Graduate of Sri Lanka Institute Of Information Technology.<br></br>
+🍀 I'm Currently Pursuing the Masters in Advanced Software Engineering @ University of Westminster.<br></br>
 
-💬 Talk with me about &emsp;**Android, Javascript, Java, Python, ReactJS, HTML, CSS, JS, C, C++**
+💬 Talk with me about &emsp;**Jenkins, GCP, AWS, Azure, Github Actions, Kubernetes, Android, Javascript, Java, Python, ReactJS, HTML, CSS, JS, C, C++**
 
 <h3><b>Connect with me 👇🏻</h3>
 <a target="_blank" href="thaminduchankana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>

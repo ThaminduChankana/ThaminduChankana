@@ -1,119 +1,108 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Senior+Software+Engineer.)](https://git.io/typing-svg)
+<div>
 
-💼 I'm a Senior Software Engineer working on cloud data platforms on GCP. I lead the design, development and deployment of outbound data sharing solutions from the GCP data lake to enterprise systems such as Salesforce, Workday and SAP.<br></br>
-🎓 MSc in Advanced Software Engineering @ University of Westminster (**Distinction**) and BSc (Hons) in Information Technology, **First Class Honours**, @ Sri Lanka Institute of Information Technology (SLIIT).<br></br>
-🏆 NBQSA 2024 Bronze Award and SLASSCOM Ingenuity Award winner for **RetinaX**, a deep learning research project for retinal disease detection from OCT images.<br></br>
-🌱 I work across backend development, data engineering, cloud engineering and DevOps, building event-driven systems with Spring Boot, Apache Kafka (Confluent Cloud) and GCP.<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana;Senior+Software+Engineer;Cloud+%26+Distributed+Systems;AI+%26+Medical+Imaging+Research)](https://git.io/typing-svg)
 
-💬 Talk with me about &emsp;**GCP, Cloud Composer / Apache Airflow, BigQuery, Datastream, Apache Kafka, Confluent Cloud, Spring Boot, Terraform, GitHub Actions, Jenkins, Docker, Kubernetes, AWS, Azure, Java, Python, C++, ReactJS, JavaScript**
+**Senior Software Engineer · Cloud Engineering · Distributed Systems · AI Research**
 
-<h3><b>Connect with me 👇🏻</h3>
-<a target="_blank" href="mailto:thaminduchankana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- 
-<a target="_blank" href="https://www.linkedin.com/in/thamindu-gamage-5391b5192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
- 
-<a target="_blank" href="https://twitter.com/Thamindu0707"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaminduchankana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamindu-gamage-5391b5192/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thaminduchankana.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Thamindu0707)
 
-<h3><a href="https://thaminduchankana.netlify.app/"><b><i>Visit My Website</i></b></a></h3>
+</div>
 
+## 👋 About Me
 
-<br/>
+- ☁️ I focus on cloud data platforms on **Google Cloud Platform (GCP)**, designing and delivering outbound data-sharing solutions that connect cloud data lakes with platforms such as Salesforce, Workday, and SAP.
+- 🎓 Completed an **MSc in Advanced Software Engineering with Distinction** at the University of Westminster and a **BSc (Hons) in Information Technology with First Class Honours** at SLIIT.
+- 🏆 Award-winning creator of **RetinaX**, a deep-learning research project for retinal disease detection from OCT images, recognised by the NBQSA and SLASSCOM Ingenuity Awards.
+- ⚙️ Interested in backend engineering, data engineering, cloud-native architecture, event-driven systems, CI/CD automation, and DevOps.
 
-## 📊 Github Status
+## 💬 Areas I Enjoy Discussing
 
-![Thamindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduChankana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+**Cloud & Data:** GCP, Cloud Composer / Apache Airflow, BigQuery, Datastream, AWS, Azure  
+**Backend & Streaming:** Java, Spring Boot, Apache Kafka, Confluent Cloud, Python, C++, REST APIs  
+**DevOps & Infrastructure:** Terraform, GitHub Actions, Jenkins, Docker, Kubernetes  
+**AI & Frontend:** TensorFlow, deep learning, medical imaging AI, React, JavaScript
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThaminduChankana&theme=algolia)
+## 🎓 Education
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaminduChankana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+- **MSc, Advanced Software Engineering — Distinction** · University of Westminster
+- **BSc (Hons), Information Technology (Software Engineering) — First Class Honours** · Sri Lanka Institute of Information Technology (SLIIT)
 
-<!-- ![Thamindu's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThaminduChankana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+## 🧰 Languages, Tools & Technologies
 
-## 📚 Projects
+### Languages & Development
 
-**RetinaX** (NBQSA 2024 Bronze Award, SLASSCOM Ingenuity Award): web and mobile applications that detect retinal diseases from OCT images using TensorFlow ensemble models and CNN architectures across 8 disease categories, with generative AI clinical analysis narratives through AWS Bedrock.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[*Family Dental Clinic Web Application* ](https://github.com/ThaminduChankana/Family-Dental-Clinic)
+### Cloud, Data & Streaming
 
-[*Trash Coin Mobile Waste Management Application*](https://github.com/ThaminduChankana/TrashCoinApp)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Confluent](https://img.shields.io/badge/Confluent-1C1C1C?style=flat-square&logo=confluent&logoColor=white)
 
-[*True Power Mobile Fitness Application* ](https://github.com/ThaminduChankana/True-Power)
+### DevOps, Databases & AI
 
-[*Fitness Factory Gym Management System*](https://github.com/ThaminduChankana/Fitness-Factory)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-[*Online Tour Guide Application*](https://github.com/ThaminduChankana/Online-Tour-Guide)
+## 📚 Featured Projects
 
-<br>
+### RetinaX — Retinal Disease Detection
+An award-winning medical imaging AI research project that uses TensorFlow ensemble models and CNN architectures to classify retinal diseases from OCT images across eight disease categories. It also explores generative AI through AWS Bedrock to produce clinical analysis narratives.
 
-## 🖥️🛠️Languages And Tools
+**Recognition:** NBQSA 2024 Bronze Award · SLASSCOM Ingenuity Award · Best Research Presenter, CCAI
 
-<p align="left">
-	<a href="https://cloud.google.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
-	</a>
-	<a href="https://kafka.apache.org/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
-	</a>
-	<a href="https://airflow.apache.org/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> 
-	</a>
-	<a href="https://spring.io/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-	</a>
-	<a href="https://www.terraform.io/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
-	</a>
-	<a href="https://github.com/features/actions" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> 
-	</a>
-	<a href="https://www.jenkins.io/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
-	</a>
-	<a href="https://www.docker.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-	</a>
-	<a href="https://kubernetes.io/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank"> 
-		 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-	</a>
-	<a href="https://git-scm.com/" target="_blank"> 
-		 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.java.com" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-	</a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mysql.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mongodb.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-	</a> 
-	<a href="https://nodejs.org" target="_blank"> 
-		<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.npmjs.com/" target="_blank"> 
-		<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" width="40" height="40"/> 
-	</a>  
-	<a href="https://postman.com" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-	</a> 
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	</a>
-	<a href="https://reactjs.org/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.cprogramming.com/" rel="nofollow"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> 
-	</a>
-</p>
+### [Family Dental Clinic Web Application](https://github.com/ThaminduChankana/Family-Dental-Clinic)
+A web application for dental clinic and patient information management.
 
-[linkedin]: https://www.linkedin.com/in/thamindu-gamage-5391b5192/
+### [TrashCoin — Mobile Waste Management Application](https://github.com/ThaminduChankana/TrashCoinApp)
+A mobile application connecting waste disposers, collectors, and recyclers to support responsible consumption and waste management.
+
+### Other Projects
+
+- [**True Power** — Mobile Fitness Application](https://github.com/ThaminduChankana/True-Power)
+- [**Fitness Factory** — Gym Management System](https://github.com/ThaminduChankana/Fitness-Factory)
+- [**Online Tour Guide** — Tour Guide Application](https://github.com/ThaminduChankana/Online-Tour-Guide)
+
+## 🏆 Awards & Recognition
+
+- **NBQSA 2024 Bronze Award** — Tertiary University Technology Category
+- **SLASSCOM Ingenuity Award Winner** — Best Project/Product, University Category (2024)
+- **Best Research Presenter** — Image Processing and Machine Learning Category, International Conference on Computer Communication and Artificial Intelligence (CCAI)
+- Former Microsoft Learn Student Ambassador
+- Postman Student Expert
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ThaminduChankana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Thamindu's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaminduChankana&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top programming languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaminduChankana&theme=algolia&hide_border=true" alt="GitHub contribution streak" />
+
+</div>

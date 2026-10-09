@@ -1,15 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Software+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Chankana.;Senior+Software+Engineer.)](https://git.io/typing-svg)
 
-🌱 I’m a Software Engineering Graduate of Sri Lanka Institute Of Information Technology.<br></br>
-🍀 I'm Currently Pursuing the Masters in Advanced Software Engineering @ University of Westminster.<br></br>
+💼 I'm a Senior Software Engineer working on cloud data platforms on GCP. I lead the design, development and deployment of outbound data sharing solutions from the GCP data lake to enterprise systems such as Salesforce, Workday and SAP.<br></br>
+🎓 MSc in Advanced Software Engineering @ University of Westminster (**Distinction**) and BSc (Hons) in Information Technology, **First Class Honours**, @ Sri Lanka Institute of Information Technology (SLIIT).<br></br>
+🏆 NBQSA 2024 Bronze Award and SLASSCOM Ingenuity Award winner for **RetinaX**, a deep learning research project for retinal disease detection from OCT images.<br></br>
+🌱 I work across backend development, data engineering, cloud engineering and DevOps, building event-driven systems with Spring Boot, Apache Kafka (Confluent Cloud) and GCP.<br></br>
 
-💬 Talk with me about &emsp;**Jenkins, GCP, AWS, Azure, Github Actions, Kubernetes, Android, Javascript, Java, Python, ReactJS, HTML, CSS, JS, C, C++**
+💬 Talk with me about &emsp;**GCP, Cloud Composer / Apache Airflow, BigQuery, Datastream, Apache Kafka, Confluent Cloud, Spring Boot, Terraform, GitHub Actions, Jenkins, Docker, Kubernetes, AWS, Azure, Java, Python, C++, ReactJS, JavaScript**
 
 <h3><b>Connect with me 👇🏻</h3>
-<a target="_blank" href="thaminduchankana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- 
+<a target="_blank" href="mailto:thaminduchankana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ 
 <a target="_blank" href="https://www.linkedin.com/in/thamindu-gamage-5391b5192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
- 
+ 
 <a target="_blank" href="https://twitter.com/Thamindu0707"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <h3><a href="https://thaminduchankana.netlify.app/"><b><i>Visit My Website</i></b></a></h3>
@@ -29,6 +31,8 @@
 
 ## 📚 Projects
 
+**RetinaX** (NBQSA 2024 Bronze Award, SLASSCOM Ingenuity Award): web and mobile applications that detect retinal diseases from OCT images using TensorFlow ensemble models and CNN architectures across 8 disease categories, with generative AI clinical analysis narratives through AWS Bedrock.
+
 [*Family Dental Clinic Web Application* ](https://github.com/ThaminduChankana/Family-Dental-Clinic)
 
 [*Trash Coin Mobile Waste Management Application*](https://github.com/ThaminduChankana/TrashCoinApp)
@@ -44,6 +48,33 @@
 ## 🖥️🛠️Languages And Tools
 
 <p align="left">
+	<a href="https://cloud.google.com/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
+	</a>
+	<a href="https://kafka.apache.org/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
+	</a>
+	<a href="https://airflow.apache.org/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> 
+	</a>
+	<a href="https://spring.io/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+	</a>
+	<a href="https://www.terraform.io/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
+	</a>
+	<a href="https://github.com/features/actions" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> 
+	</a>
+	<a href="https://www.jenkins.io/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+	</a>
+	<a href="https://www.docker.com/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+	</a>
+	<a href="https://kubernetes.io/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank"> 
 		 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 	</a>
@@ -73,9 +104,6 @@
 	</a>  
 	<a href="https://postman.com" target="_blank"> 
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-	</a> 
-	<a href="https://www.r-project.org/" target="_blank"> 
-		<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R-Lang" width="40" height="40"/> 
 	</a> 
 	<a href="https://www.python.org" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 

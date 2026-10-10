@@ -71,7 +71,7 @@
 
 ## 📚 Featured Projects
 
-### RetinaX — Retinal Disease Detection
+### [RetinaX — Retinal Disease Detection](https://github.com/ThaminduChankana/RetinaX)
 An award-winning medical imaging AI research project that uses TensorFlow ensemble models and CNN architectures to classify retinal diseases from OCT images across eight disease categories. It also explores generative AI through AWS Bedrock to produce clinical analysis narratives.
 
 **Recognition:** NBQSA 2024 Bronze Award · SLASSCOM Ingenuity Award · Best Research Presenter, CCAI
